@@ -1,0 +1,22 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "aboutpackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prebuild" : "echo \" this is pre build \"",
+    "build" : "echo \" this is build \"",
+    "postbuild" : "echo \" this is post build \""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copiner/init.git"
+  },
+  "author": "xjx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/copiner/init/issues"
+  },
+  "homepage": "https://github.com/copiner/init#readme"
+}
